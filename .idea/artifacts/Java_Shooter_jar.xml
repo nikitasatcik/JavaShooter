@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Java Shooter:jar">
+    <output-path>D:/</output-path>
+    <root id="archive" name="Java Shooter.jar">
+      <element id="module-output" name="Java Shooter" />
+    </root>
+  </artifact>
+</component>
